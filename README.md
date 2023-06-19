@@ -9,7 +9,7 @@
 
 - 🏵 In my free time i love **playing football, hiking, travelling**
 
-- 📫 How to reach me **s.christ@mailbox.org**
+- 📫 How to reach me **hallo@soerenchrist.de**
  
 
 <h3 align="left">Connect with me:</h3>
