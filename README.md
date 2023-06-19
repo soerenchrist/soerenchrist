@@ -20,3 +20,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soerenchrist&show_icons=true&locale=en&theme=great-gatsby" alt="soerenchrist" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soerenchrist&locale=en&theme=great-gatsby" alt="language stats" /></p>
