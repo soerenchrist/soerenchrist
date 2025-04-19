@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sören-christ-3a3b42196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sören-christ-3a3b42196" height="30" width="40" /></a>
-<a href="https://xing.com/profile/Soeren_Christ" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" alt="sören-christ-xing" height="30" width="40" /></a>
+<a href="https://xing.com/profile/Soeren_Christ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Xing_logo.svg" alt="sören-christ-xing" height="30" width="80" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soerenchrist&show_icons=true&locale=en&theme=great-gatsby" alt="soerenchrist" /></p>
